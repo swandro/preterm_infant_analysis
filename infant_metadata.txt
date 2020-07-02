@@ -1,0 +1,78 @@
+Sample	Patient	Group	Group2	sample_type	timepoint	days_from_first_timepoint	day_of_life	day_relative_sick	day_sick	longitudinal	Number_of_timepoints	Antibiotics	antibiotic_type	delivery_mode	feeding_type	Twin_set	Twin
+46	1	control	control	stool	0	0	7			n	1	0		c-section	"BM,F"		
+47	1	control	control	stool	0	0	7			n	1	0		c-section	"BM,F"		
+43	2	control	control	stool	1	21	36			n	2	1	"ampicillin,gentamycin"	c-section	"BM,F"		
+44	2	control	control	stool	0	0	15			n	2	1	"ampicillin,gentamycin"	c-section	"BM,F"		
+45	2	control	control	stool	0	0	15			n	2	1	"ampicillin,gentamycin"	c-section	"BM,F"		
+42	3	control	control	stool	0	0	19			n	1	1	"ampicillin,gentamycin"	c-section	BM		
+40	4	control	control	stool	0	0	11			n	1	0		vaginal	BM		
+41	4	control	control	stool	0	0	11			n	1	0		vaginal	BM		
+38	5	control	control	stool	0	0	18			n	1	0		c-section	BM		
+39	5	control	control	stool	0	0	18			n	1	0		c-section	BM		
+27	6	control	control	stool	3	17	43			y	4	1	"ampicillin,gentamycin"	c-section	"BM,F"		
+34	6	control	control	stool	2	3	28			y	4	1	"ampicillin,gentamycin"	c-section	"BM,F"		
+36	6	control	control	stool	1	1	26			y	4	1	"ampicillin,gentamycin"	c-section	"BM,F"		
+37	6	control	control	stool	0	0	25			y	4	1	"ampicillin,gentamycin"	c-section	"BM,F"		
+28	7	control	control	stool	1	11	21			y	3	0		c-section	"BM,F"		
+29	7	control	control	stool	2	14	24			y	3	0		c-section	"BM,F"		
+35	7	control	control	stool	0	0	10			y	3	0		c-section	"BM,F"		
+30	8	control	control	stool	0	0	10			n	1	1	"ampicillin,gentamycin"	vaginal	BM		
+31	9	control	control	stool	0	0	8			n	1	0		vaginal	BM		
+23	10	septic	septic_sick	stool	5	25	40	13	12	y	6	1	"ampicillin,gentamycin,vancomycin"	vaginal	"BM,F"		
+24	10	septic	septic_sick	stool	4	24	39	12	12	y	6	1	"ampicillin,gentamycin,vancomycin"	vaginal	"BM,F"		
+25	10	septic	septic_sick	stool	3	22	37	10	12	y	6	1	"ampicillin,gentamycin,vancomycin"	vaginal	"BM,F"		
+26	10	septic	septic_sick	stool	2	21	36	9	12	y	6	1	"ampicillin,gentamycin,vancomycin"	vaginal	"BM,F"		
+32	10	septic	septic_healthy	stool	0	0	15	-12	12	y	6	1	"ampicillin,gentamycin,vancomycin"	vaginal	"BM,F"		
+33	10	septic	septic_sick	stool	1	20	35	8	12	y	6	1	"ampicillin,gentamycin,vancomycin"	vaginal	"BM,F"		
+21	11	control	control	stool	0	0	29			n	1	1	"ampicillin,gentamycin"	vaginal	BM		
+22	11	control	control	stool	0	0	29			n	1	1	"ampicillin,gentamycin"	vaginal	BM		
+20	12	control	control	stool	0	0	22			n	1	1	"ampicillin,gentamycin"	c-section	"BM,F"	1	A
+14	13	control	control	stool	0	0	23			n	1	1	"ampicillin,gentamycin"	c-section	"BM,F"	1	B
+76	14	control	control	stool	0	0	8			n	1	1	"ampicillin,gentamycin"	c-section	BM		
+15	15	control	control	stool	0	0	18			n	2	1	"ampicillin,gentamycin"	c-section	"BM,F"	2	A
+16	15	control	control	stool	1	21	40			n	2	1	"ampicillin,gentamycin"	c-section	"BM,F"	2	A
+17	15	control	control	stool	2	21	40			n	2	1	"ampicillin,gentamycin"	c-section	"BM,F"	2	A
+0	16	control	control	stool	0	0	19			n	1	1	"ampicillin,gentamycin"	c-section	"BM,F"	2	B
+13	17	control	control	stool	2	35	54			y	3	1	"ampicillin,cefotaxime"	c-section	BM		
+18	17	control	control	stool	0	0	18			y	3	1	"ampicillin,cefotaxime"	c-section	BM		
+19	17	control	control	stool	1	13	32			y	3	1	"ampicillin,cefotaxime"	c-section	BM		
+12	20	GI	GI	stool	0	0	21	-5		n	1	1	"ampicillin,gentamycin"	c-section	BM		
+74	21	control	control	stool	0	0	10			n	1	1	"ampicillin,gentamycin"	c-section	BM		
+75	22	control	control	stool	0	0	25			n	1	1	"ampicillin,cefotaxime"	vaginal	"BM,F"		
+5	23	nec	NEC_healthy	stool	6	42	56	29	13	y	7	1	"ampicillin,gentamycin,cefotaxime,vancomycin"	vaginal	BM		
+6	23	nec	NEC_sick	stool	5	16	30	3	13	y	7	1	"ampicillin,gentamycin,cefotaxime,vancomycin"	vaginal	BM		
+7	23	nec	NEC_sick	stool	4	16	30	3	13	y	7	1	"ampicillin,gentamycin,cefotaxime,vancomycin"	vaginal	BM		
+8	23	nec	NEC_sick	stool	3	14	28	1	13	y	7	1	"ampicillin,gentamycin,cefotaxime,vancomycin"	vaginal	BM		
+9	23	nec	NEC_sick	stool	2	12	27	0	13	y	7	1	"ampicillin,gentamycin,cefotaxime,vancomycin"	vaginal	BM		
+10	23	nec	NEC_healthy	stool	1	1	15	-12	13	y	7	1	"ampicillin,gentamycin,cefotaxime,vancomycin"	vaginal	BM		
+11	23	nec	NEC_healthy	stool	0	0	14	-13	13	y	7	1	"ampicillin,gentamycin,cefotaxime,vancomycin"	vaginal	BM		
+3	24	control	control	stool	1	45	27			n	2	1	"ampicillin,gentamycin"	c-section	BM	3	A
+4	24	control	control	stool	0	0	73			n	2	1	"ampicillin,gentamycin"	c-section	BM	3	A
+2	25	control	control	stool	0	0	28			n	1	1	"ampicillin,gentamycin"	c-section	BM	3	B
+1	26	septic	septic_sick	stool	0	0	22	0		n	1	1	"ampicillin,gentamycin,cefotaxime,vancomycin"	c-section	BM	4	A
+48	27	septic	septic_healthy	stool	0	0	22	-7	7	n	2	1	"ampicillin,gentamycin"	c-section	BM	4	B
+49	27	septic	septic_sick	stool	1	9	31	2	7	n	2	1	"ampicillin,gentamycin"	c-section	BM	4	B
+50	28	nec	NEC_sick	stool	0	0	31	0	0	y	4	1	"vancomycin,piperacillin"	c-section	"BM,F"		
+51	28	nec	NEC_sick	stool	1	1	32	1	0	y	4	1	"vancomycin,piperacillin"	c-section	"BM,F"		
+52	28	nec	NEC_sick	stool	2	2	33	2	0	y	4	1	"vancomycin,piperacillin"	c-section	"BM,F"		
+53	28	nec	NEC_healthy	stool	3	17	48	17	0	y	4	1	"vancomycin,piperacillin"	c-section	"BM,F"		
+58	29	septic	septic_sick	stool	1	6	26	0	6	n	2	1	"cefotaxime,vancomycin"	c-section	BM		
+59	29	septic	septic_healthy	stool	0	0	20	-6	6	n	2	1	"cefotaxime,vancomycin"	c-section	BM		
+54	30	nec	NEC_healthy	stool	3	35	56	15	20	y	4	1	"cefazolin,azithromycin,ampicillin"	vaginal	"BM,F"		
+55	30	nec	NEC_sick	stool	2	21	42	1	20	y	4	1	"cefazolin,azithromycin,ampicillin"	vaginal	"BM,F"		
+56	30	nec	NEC_sick	stool	1	20	41	0	20	y	4	1	"cefazolin,azithromycin,ampicillin"	vaginal	"BM,F"		
+57	30	nec	NEC_healthy	stool	0	0	21	-20	20	y	4	1	"cefazolin,azithromycin,ampicillin"	vaginal	"BM,F"		
+62	31	septic	septic_healthy	stool	4	35	45	11	24	y	5	1	"ampicillin,gentamycin"	c-section	"BM,F"		
+63	31	septic	septic_sick	stool	3	28	38	4	24	y	5	1	"ampicillin,gentamycin"	c-section	"BM,F"		
+64	31	septic	septic_sick	stool	2	25	35	1	24	y	5	1	"ampicillin,gentamycin"	c-section	"BM,F"		
+65	31	septic	septic_sick	stool	1	24	34	0	24	y	5	1	"ampicillin,gentamycin"	c-section	"BM,F"		
+66	31	septic	septic_healthy	stool	0	0	10	-24	24	y	5	1	"ampicillin,gentamycin"	c-section	"BM,F"		
+60	32	septic	septic_sick	stool	0	0	32	0	0	y	3	1			"BM,F"		
+61	32	septic	septic_sick	stool	1	0	32	0	0	y	3	1			"BM,F"		
+72	32	septic	septic_healthy	stool	2	21	75	21	0	y	3	1			"BM,F"		
+73	32	septic	septic_healthy	stool	3	43	53	43	0	y	3	1			"BM,F"		
+70	35	control	control	stool	0	0	18			n	1	0		c-section	"BM,F"		
+71	35	control	control	stool	1	0	18			n	1	0		c-section	"BM,F"		
+67	37	septic	septic_sick	stool	2	10	18	5	5	y	3	1	"ampicillin,gentamycin,cefazolin,oxacillin"	vaginal	BM		
+68	37	septic	septic_sick	stool	1	9	17	4	5	y	3	1	"ampicillin,gentamycin,cefazolin,oxacillin"	vaginal	BM		
+69	37	septic	septic_healthy	stool	0	0	8	-5	5	y	3	1	"ampicillin,gentamycin,cefazolin,oxacillin"	vaginal	BM		
